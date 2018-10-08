@@ -5,7 +5,7 @@ title: 中国戏曲
 
 # 中国戏曲
 
-![Image text ](https://raw.githubusercontent.com/lanruoshengchunxia/swi-homework/gh-pages/戏剧.2.jpg)
+![Image text ](https://raw.githubusercontent.com/lanruoshengchunxia/swi-homework/gh-pages/images/戏剧.2.jpg)
 
 
 中国戏曲主要是由民间歌舞、说唱和滑稽戏三种不同艺术形式综合而成，与希腊悲剧和喜剧、印度梵剧并称为世界三大古老的戏剧文化。经过长期的发展演变，逐步形成了以“京剧、越剧、黄梅戏、评剧、豫剧”五大戏曲剧种为核心的中华戏曲百花苑。其它比较著名的戏曲种类有：昆曲、坠子戏、粤剧、淮剧、川剧、秦腔、沪剧、晋剧、汉剧、河北梆子、河南越调、河南坠子、湘剧、湖南花鼓戏等。
@@ -24,14 +24,14 @@ title: 中国戏曲
 
 *  生 : 生行是戏曲表演行当的主要类型之一。扮演男性人物。生的名目初见于宋元南戏，泛指剧中男主角。历代戏曲都有这一行当，近代各地戏曲剧种根据所扮演人物年龄、身份的不同，又划分为老生、小生、武生等分支，表演上各有特点。老生生行的一个分支。因多挂髯口（胡须）又名须生。
 
-![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/生.jpg)
+![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/生.jpg)
 
 *  旦 ：戏曲表演行当的主要类型之一，女角色之统称。早在宋杂剧时已有“装旦”这一角色。宋元南戏和北杂剧形成后仍沿用旦的名称，运用上又略有不同。昆山腔成熟期，形成正旦、小旦、贴旦、老旦四个分支。其后各剧种又繁衍出众多分支。
- ![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/旦.jpg)
+ ![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/旦.jpg)
 *  净 ：戏曲表演行当的主要类型之一，俗称花脸。以面部化妆运用各种色彩和图案勾勒脸谱为突出标志，扮演性格、气质、相貌上有特异之点的男性角色。或粗犷豪迈，或刚烈耿直，或阴险毒辣，或鲁莽诚朴。演唱声音洪亮宽阔，动作大开大阖、顿挫鲜明，为戏曲舞台上风格独特的性格造型。据说此行当是从宋杂剧副净演变而来。“花部”兴起后，净扮演人物范围不断扩大。
-![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/净.jpg)
+![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/净.jpg)
 *  丑 ：戏曲表演行当主要类型之一，喜剧角色。由于面部化妆用白粉在鼻梁眼窝间勾画小块脸谱，又叫小花脸。宋元南戏至今各戏曲剧种都有此脚色行当。扮演人物种类繁多，有的心地善良，幽默滑稽；有的奸诈刁恶，悭吝卑鄙。近代戏曲中，丑的表演艺术有了长足的发展，不同的剧种都有各自的风格特色。丑的表演一般不重唱工而以念白的口齿清楚、清脆流利为主。相对地说，丑的表演程式不像其他行当那样严谨，但有自己的风格和规范，如屈膝、蹲裆、踮脚、耸肩等都是丑的基本动作。
-![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/丑.jpg)
+![images](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/丑.jpg)
 
 ## 3、戏曲音乐
 
