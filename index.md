@@ -7,6 +7,7 @@
 3. [03-Data Representation](hw03)
 4. [04-编码&文本压缩&色彩](hw04)
 5. [05-Gate and Circuit](hw05)
+6. [06-Computing Components](hw06)
 
 
 ## 实验与实践
