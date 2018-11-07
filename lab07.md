@@ -4,6 +4,8 @@
 姓名：李佳
 
 #目录
+##实验目标
+##实验步骤与结果
 1）任务 1：简单程序
 （1）打开网页 The PIPPIN User’s Guide ，然后输入 Program 1：Add 2 number<br>
 （2）点step after step。观察并回答下面问题：<br>
@@ -25,6 +27,7 @@ ACC 寄存器的全称与作用。<br>
 写出 c 语言的计算过程<br>
 写出机器语言的计算过程<br>
 用自己的语言，简单总结高级语言与机器语言的区别与联系。<br>
+##实验小结
 
 #实验目标
 理解冯·诺伊曼计算机的结构<br>
@@ -32,6 +35,7 @@ ACC 寄存器的全称与作用。<br>
 理解机器指令执行周期<br>
 用汇编编写简单程序<br>
 
+#实验步骤与结果
 ##任务 1：简单程序
 
 ![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/硬件编程1.png)
@@ -104,7 +108,20 @@ HLT<br>
 
 
 
-
+#实验小结
+1) 理解冯·诺伊曼计算机的结构<br>
+![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/冯诺依曼.png)
+2) 理解机器指令的构成<br>
+机器指令通常由操作码和操作数两部分组成，操作码指出该指令所要完成的操作，即指令的功能，操作数指出参与运算的对象，以及运算结果所存放的位置等。
+3) 理解机器指令执行周期<br>
+Main memory 
+→ fetch instruction 
+→ Decode instruction 
+→ Registers 
+→ Get data 
+→ Execute the instruction 
+→ Main memory<br>
+4) 用汇编编写简单程序<br>
 
 
 
