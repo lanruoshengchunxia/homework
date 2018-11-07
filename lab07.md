@@ -70,6 +70,7 @@ int y=x+w;<br>
 
 
 ## 任务 2：简单循环
+![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/硬件编程3.png)
 ### 输入程序Program 2，运行并回答问题：
 1) 使X不断减1直到X等于0；
 2) int x;
@@ -84,7 +85,8 @@ if(x>0){
     y+=x;
     x--;
 }
-2) 汇编：
+2) 
+汇编：<br>
 LOD #10<br>
 STO W<br>
 LOD Y<br>
@@ -98,7 +100,7 @@ JMP 4<br>
 HLT<br>
 
 
-机器：
+机器：<br>
 
 
 
