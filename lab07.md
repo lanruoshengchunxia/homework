@@ -1,12 +1,12 @@
-#封面
+# 封面
 实验名称：简单程序&简单循环<br>
-学号：18342048
+学号：18342048<br>
 姓名：李佳
 
-#目录
-##实验目标
-##实验步骤与结果
-1）任务 1：简单程序
+# 目录
+## 实验目标
+## 实验步骤与结果
+1) 任务 1：简单程序<br>
 （1）打开网页 The PIPPIN User’s Guide ，然后输入 Program 1：Add 2 number<br>
 （2）点step after step。观察并回答下面问题：<br>
 PC，IR 寄存器的作用。<br>
@@ -19,7 +19,8 @@ ACC 寄存器的全称与作用。<br>
 解释 RAM 的地址。<br>
 该机器CPU是几位的？（按累加器的位数）<br>
 写出该程序对应的 C语言表达。<br>
-2）任务 2：简单循环<br>
+
+2) 任务 2：简单循环<br>
 （1） 输入程序Program 2，运行并回答问题：<br>
 用一句话总结程序的功能<br>
 写出对应的 c 语言程序<br>
@@ -27,16 +28,17 @@ ACC 寄存器的全称与作用。<br>
 写出 c 语言的计算过程<br>
 写出机器语言的计算过程<br>
 用自己的语言，简单总结高级语言与机器语言的区别与联系。<br>
-##实验小结
 
-#实验目标
+## 实验小结
+
+# 实验目标
 理解冯·诺伊曼计算机的结构<br>
 理解机器指令的构成<br>
 理解机器指令执行周期<br>
 用汇编编写简单程序<br>
 
-#实验步骤与结果
-##任务 1：简单程序
+# 实验步骤与结果
+## 任务 1：简单程序
 
 ![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/硬件编程1.png)
 
@@ -60,7 +62,7 @@ PC：程序计数器，存放下一条指令在内存中的地址 <br>
 → Execute the instruction ALU执行加法，结果传入ACC<br> 
 → Main memory<br>
 
-5）LOD #3只需访问RAM一次,而ADD W需要两次访问RAM
+5) LOD #3只需访问RAM一次,而ADD W需要两次访问RAM
 
 ![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/硬件编程2.png)
 ### 点击“Binary”,观察回答下面问题:
@@ -82,15 +84,14 @@ if(x>0){
     x--;
 }
 ### 修改该程序，用机器语言实现 10+9+8+..1 ，输出结果存放于内存 Y
-1)
-int x=10;
-int y=0;
-if(x>0){
-    y+=x;
-    x--;
-}
-2) 
-汇编：<br>
+1) int x=10;<br>
+int y=0;<br>
+if(x>0){<br>
+    y+=x;<br>
+    x--;<br>
+}<br>
+
+2) 汇编：<br>
 LOD #10<br>
 STO W<br>
 LOD Y<br>
@@ -108,9 +109,9 @@ HLT<br>
 
 
 
-#实验小结
+# 实验小结
 1) 理解冯·诺伊曼计算机的结构<br>
-![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/冯诺依曼.png)
+![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/冯诺依曼.png)<br>
 2) 理解机器指令的构成<br>
 机器指令通常由操作码和操作数两部分组成，操作码指出该指令所要完成的操作，即指令的功能，操作数指出参与运算的对象，以及运算结果所存放的位置等。
 3) 理解机器指令执行周期<br>
