@@ -7,3 +7,6 @@
 
 ![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/求定积分.png)
 # 使用Python做线代题目
+1) 求矩阵的逆
+
+2) 求解
