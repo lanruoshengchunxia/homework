@@ -8,5 +8,21 @@
 ![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/求定积分.png)
 # 使用Python做线代题目
 1) 求矩阵的逆
-
+$$
+\left[
+\begin{matrix}
+0 & 1 & 2 \\
+1 & 0 & 3 \\
+4 & -3 & 8 
+\end{matrix} \right]\tag{2}
+$$
+![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/求矩阵的逆.png)
 2) 求解
+$$
+\left[
+\begin{matrix}
+3 & 1 & 9  \\
+1 & 2 & 8 
+\end{matrix} \right]\tag{2}
+$$
+![](https://github.com/lanruoshengchunxia/swi-homework/raw/gh-pages/images/求解矩阵.png)
