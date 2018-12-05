@@ -1,5 +1,5 @@
 # 贪吃蛇C语言实现
-~~~c
+```cs
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
@@ -123,4 +123,4 @@ void put_money(void){
     } 
 
 }
-~~~
+```
