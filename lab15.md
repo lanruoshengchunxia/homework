@@ -29,8 +29,10 @@
     // 选择distance中存最小距离的下标p，注意最小距离不能是9999
     // 返回 movable[p]
     }
-```c
+```
 ## c语言实现
+```c
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
